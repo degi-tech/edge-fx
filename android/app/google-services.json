@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960784435283",
+    "project_id": "edge-fx",
+    "storage_bucket": "edge-fx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960784435283:android:691bf127e5a0c7feb35ea6",
+        "android_client_info": {
+          "package_name": "com.example.edge_fx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYyZRE4G3-SlMduFsiFp-w70j4UdwRPzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
